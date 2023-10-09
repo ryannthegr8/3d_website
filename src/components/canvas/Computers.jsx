@@ -25,7 +25,7 @@ function Computers() {
       <primitive
         object={Computer.scene}
         scale={0.65}
-        position={[0, -3.25, -1.5]}
+        position={[0, -4.25, -1.5]}
         rotation={[-0.01, -0.02, -0.01]}
       />
     </mesh>
